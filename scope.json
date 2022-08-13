@@ -1,0 +1,9 @@
+{
+    "name": "my-local-bit-scope",
+    "remotes": {},
+    "version": "1.0.304",
+    "lanes": {
+        "current": "main",
+        "tracking": []
+    }
+}
