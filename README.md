@@ -1,4 +1,4 @@
-Start a local host remote scope:
+After clone this repo, start a local host remote scope:
 
 ```shell
 # install deps
@@ -10,6 +10,7 @@ bit start --log=info` or `bit start my-scope/my-ui-root --log=info
 ```
 
 After create your bit workspace, modify `teambit.workspace/workspace.defaultScope` as 'my-local-bit-scope'.
+
 And then add local host remote scope with command `bit remote add http://localhost:3000`
 
 So you can create a component and export to local host remote scope(http://localhost:3000)
